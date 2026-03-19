@@ -143,10 +143,3 @@ Helps management take corrective actions quickly.
 
 This dashboard enables effective monitoring of sales performance by identifying top performers, underperformers, and performance gaps. It helps organizations take data-driven actions to improve sales outcomes.
 
----
-
-💡 Future Improvements
-
-- Add advanced KPIs (e.g., average sales per executive)
-- Integrate Power BI for enhanced visualization
-- Automate data updates using Excel Power Query
