@@ -12,7 +12,7 @@
 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" alt="Sales Performance Dashboard" width="100%">
+  <img src="DASHBOARD.png" alt="Sales Performance Dashboard" width="100%">
 </p>✨ Dashboard Highlights
 
 📌 Feature	📊 Description
